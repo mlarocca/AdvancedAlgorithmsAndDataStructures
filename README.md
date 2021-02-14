@@ -11,4 +11,4 @@ _Advanced Algorithms and Data Structures (formerly _Algorithms and Data Structur
 You can buy the book on Manning's web site:
 https://www.manning.com/books/advanced-algorithms-and-data-structures
 
-To take a look at the code, please visit this [repo]() that holds a collections of data structures and algorithms from the book.
+To take a look at the code, please visit this [repo](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) that holds a collections of data structures and algorithms from the book.
